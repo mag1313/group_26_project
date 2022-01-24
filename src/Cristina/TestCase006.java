@@ -6,5 +6,7 @@ public class TestCase006 {
 
     // It's a wonderful day in the neighborhood
 
+    // Monday should be optional
+
 
 }
